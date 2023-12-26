@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cafe24 Decoshadow';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Decoshadow/Cafe24Decoshadow.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Decoshadow/Cafe24Decoshadow.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Decoshadow/Cafe24Decoshadow.ttf') format('truetype');
+}
